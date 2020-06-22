@@ -13,7 +13,8 @@ background-clip: padding-box; ;text-transform: uppercase;animation-name: h2;anim
 {from{color:white;background-color: black;background-clip: padding-box}
 	to{color: red;background-color: white;background-clip: border-box}}
 p
-{color:red;background-color: black;animation-name: form;animation-duration: 50s;animation-delay: 50s;animation-iteration-count:infinite;}
+{width:100%;
+	color:red;background-color: black;animation-name: form;animation-duration: 50s;animation-delay: 50s;animation-iteration-count:infinite;}
  label
 {color: red;border-color:yellow}
             form
